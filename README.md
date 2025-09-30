@@ -35,4 +35,7 @@ Then, feed it all into Excel or Power BI to calculate how much Dataverse capacit
 
 It's everything you need to calculate how much Dataverse capacity should be allocated to each division, department, etc. based on their license entitlements! 👀
 
+Then, you can take full advantage of Microsoft's new, handy-dandy [Dataverse capacity allocation features](https://learn.microsoft.com/en-us/power-platform/admin/capacity-storage#allocate-capacity-for-an-environment). 
+
+<kbd><img width="936" height="591" alt="image" src="https://github.com/user-attachments/assets/267d6437-eda8-4d05-b959-1bf8a387ac4b" /></kbd>
 
