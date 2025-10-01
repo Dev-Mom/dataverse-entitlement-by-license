@@ -33,7 +33,7 @@ Then, feed it all into Excel or Power BI to calculate how much Dataverse capacit
 
 :thumbsup: The second will contain all the users who are assigned those licenses, including pertinent Entra profile properties like department and domain values.
 
-It's everything you need to calculate how much Dataverse capacity should be allocated to each division, department, etc. based on their license entitlements! 👀
+It's everything you need to calculate how much Dataverse capacity should be allocated to each division, department, etc. based on the Power Platform licenses they own! 👀
 
 Then, you can take full advantage of Microsoft's new, handy-dandy [Dataverse capacity allocation features](https://learn.microsoft.com/en-us/power-platform/admin/capacity-storage#allocate-capacity-for-an-environment). 
 
